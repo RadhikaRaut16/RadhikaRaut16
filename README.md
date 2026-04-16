@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @RadhikaRaut
-- 👀 I’m interested in coding world !!
-- 🌱 I’m currently learning final year computer science and engineering...
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me ...
+- ```markdown id="x88rnz"
+👋 Hi, I'm Radhika Raut
 
-<!---
-RadhikaRaut/RadhikaRaut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science and Engineering graduate (2025 passout)  
+💻 Passionate about coding and software development  
+🌱 Currently strengthening my skills in .NET, C#, and web development  
+🤝 Open to collaborating on projects and learning opportunities  
+📚 Always eager to learn new technologies and solve real-world problems  
+
+🚀 Skills
+- C#
+- .NET / ASP.NET
+- SQL
+- HTML, CSS, JavaScript
+- React (Basics)
+- Git & GitHub
+
+💼 Experience
+ 🔹 .NET Developer Intern
+- Worked on a live Insurance Agent Management System project  
+- Gained hands-on experience in backend development, debugging, and database handling
+
+🎓 Training
+🔹 Java Full Stack Developer Training
+- Completed 6-month intensive training in Java Full Stack Development  
+- Learned Core Java, Spring Boot basics, SQL, frontend development, and project building
+
+📌 Projects
+🔹 Student Management System
+- Built a personal project to manage student records and academic details using .NET  
+
+📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/radhika-raut-a38b4b2b7
+- Email:  radhikaraut.nbnscoe.comp@gmail.com
+
+✨ “Code, learn, and grow every day.”
+```
